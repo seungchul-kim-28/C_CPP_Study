@@ -1,0 +1,4 @@
+c_run/
+cpp_run/
+*.out
+*.o
